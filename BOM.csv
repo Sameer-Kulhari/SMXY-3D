@@ -1,0 +1,45 @@
+Category,Qty,Item,Size/Spec,Price(USD),Link
+Frame & Structure,4,4040 Aluminum Extrusion,400mm,10.4,https://novo3d.in/aluminium-profile-parts/
+Frame & Structure,4,2040 Aluminum Extrusion,500mm,6.0,
+Frame & Structure,4,2040 Aluminum Extrusion,400mm,12,
+Frame & Structure,8,2040 Aluminum Extrusion (alt),470mm,20.9,
+Frame & Structure,1,2040 Aluminum Extrusion,400mm,1.5,
+Frame & Structure,4,2020 Aluminum Extrusion,370mm or 400mm,12,
+Frame & Structure,1,2020 Aluminum Extrusion,400mm,2.0,
+Frame & Structure,44,Profile Connector,2020,13.2,
+Frame & Structure,20,Profile Connector,2020,7.2,
+Frame & Structure,8,Endcap for 2040,-,1.2,
+Fasteners & Screws,40,T-Nuts,-,2.0,https://novo3d.in/mechanical-accessories/fasteners/
+Fasteners & Screws,40,Screws,10mm (M5/M4),12,
+Fasteners & Screws,4,Screws,M4 40mm,,
+Fasteners & Screws,4,Screws,M4 25mm,,
+Fasteners & Screws,10,Screws,M4 10mm,,
+Fasteners & Screws,2,Screws,M4 30mm,,
+Fasteners & Screws,2,Washers,M4 0.5mm,,
+Fasteners & Screws,8,Nuts,M4,,
+Fasteners & Screws,8,Screws,M3 10mm,,
+Fasteners & Screws,8,Screws,M3 6mm,,
+Motion System,3,MGN12H Linear Rails,-,84,https://novo3d.in/mechanical-accessories/
+Motion System,2,NEMA 17 Stepper Mounts,-,3.0,
+Motion System,2,NEMA 17 Stepper Mounts,-,3.0,
+Motion System,1,GT2 Timing Belt,6mm x 250cm,2.0,
+Motion System,8,GT2 Idler Pulleys,6mm,4.0,
+Motion System,4,NEMA 17 Stepper Motors,-,32,
+Z-Axis & Bed,2,Lead Screw Rods,400mm,6.0,
+Z-Axis & Bed,2,Lead Screw Mounts,Fixed,3.0,
+Z-Axis & Bed,2,Lead Screw Mounts,Bed,2.0,
+Z-Axis & Bed,2,Lead Screw Nuts,-,2.0,
+Z-Axis & Bed,8,Rod Mounts,8mm,6.0,
+Z-Axis & Bed,2,LM8UU Bearings,8mm,2.0,
+Z-Axis & Bed,1,Bed Plate,310x310mm,6.0,https://novo3d.in/heatbed/
+Z-Axis & Bed,4,Silicone Spacers,-,2.0,
+Z-Axis & Bed,1,Heated Bed,310x310mm,16,
+Z-Axis & Bed,8,Clips,-,1.0,
+Extruder & Print Head,1,Extruder Kit,-,12,https://novo3d.in/3d-printer-extruder/
+Extruder & Print Head,1,V6 Hotend,-,14,
+Psu,1,12v 30A PSU,- ,19,https://novo3d.in/power-supply/
+Main Board,1,Octopus V1.1,-,24,https://novo3d.in/bigtreetech-octopus/
+Main Board,5,TMC2209,-,28,https://novo3d.in/mks-tmc2209/
+Main Board,1, Rpi 3 1gb ,-,38,https://hubtronics.in/RPI-3-MOD-BP?srsltid=AfmBOopupmtiQHvmT1brDTpnBNzDuGEFCc6sj1CpAll9u2q7T3JlLATqg0E
+Main Board,1,TFT tochscreen for rpi,-,9.0,https://makerbazar.in/products/touch-screen-3-5-inch-tft-lcd-display-for-raspberry-pi?variant=42959460172016&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1&gad_campaignid=17426677322&gbraid=0AAAAACLxaAYYNQg5DkUnpWMTQny_U-rEj&gclid=CjwKCAjwp_LDBhBCEiwAK7FnknqULLMUNNS0jIAZCgdJ0o7W9H0fEuq5CnQcOdlDdDgAGkyGIRxmWRoC9bEQAvD_BwE
+Total,,,,418.4,
