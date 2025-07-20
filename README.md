@@ -24,6 +24,12 @@ Visit this web to view it in 3d :
   <img src="Images/Full Assembly.jpeg" width="35%" />
 </p>
 
+**Wiring :**
+This is general wiring for all components .
+<p align="center">
+  <img src="Wiring.png" width="50%" />
+</p>
+
 # BOM:
 | Category              | Qty | Item                          | Unit Price (USD) | Total Price (USD) |
 |-----------------------|-----|-------------------------------|------------------|-------------------|
