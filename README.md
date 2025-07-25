@@ -19,6 +19,7 @@ Visit this web to view it in 3d :
 
 # Images :
 **3D Model :**
+This is just a representation it has many alignment and parts issuses like missing belts improper lead screw allignment and extruder fan missing.These things will be prefect in the physical build and does not cause any issues.
 <p align="center">
   <img src="Images/Top Gantry.jpeg" width="50%" />
   <img src="Images/Full Assembly.jpeg" width="35%" />
