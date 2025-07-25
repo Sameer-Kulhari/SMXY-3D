@@ -30,7 +30,7 @@ Visit this web to view it in 3d :
 
 
 **Wiring :**
-This is general wiring for all components .
+This is general wiring for all components.(referenced from web)
 <p align="center">
   <img src="Wiring.png" width="50%" />
 </p>
