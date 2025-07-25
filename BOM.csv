@@ -1,0 +1,33 @@
+Category,Qty,Item,Size/Spec,Price(USD),Link
+Frame & Structure,4,4040 Aluminum Extrusion,400mm,6.24,https://novo3d.in/aluminium-profile-4040/
+Frame & Structure,8,2040 Aluminum Extrusion (alt),440mm,33.54,https://novo3d.in/aluminium-profile-2040/
+Frame & Structure,2,2040 Aluminum Extrusion,400mm,7.65,https://novo3d.in/aluminium-profile-2040/
+Frame & Structure,2,2020 Aluminum Extrusion,370mm,2.89,https://novo3d.in/aluminium-profiles-2020/
+Frame & Structure,1,2020 Aluminum Extrusion,400mm,2,https://novo3d.in/aluminium-profiles-2020/
+Frame & Structure,44,Profile Connector,2020,13.2,https://novo3d.in/profile-connector/
+Frame & Structure,20,Profile Connector,2020,7.2,https://novo3d.in/profile-connector/
+Frame & Structure,8,Endcap for 2040,-,1.2,https://novo3d.in/aluminium-profile-end-cap/?attribute_type=2040
+Fasteners & Screws,40,T-Nuts,-,2,https://novo3d.in/hammernut/
+Fasteners & Screws,100+,Screws,M3/m4,25,https://novo3d.in/mechanical-accessories/fasteners/
+Motion System,3,MGN12H Linear Rails,-,84,https://novo3d.in/mgn12h-linear-rail/?attribute_size=40cm&attribute_type=with+block
+Motion System,2,NEMA 17 Stepper Mounts,-,3,https://novo3d.in/nema17-frame-mount/?attribute_type=Mild+Steel+2mm
+Motion System,1,GT2 Timing Belt,6mm x 250cm,2,https://novo3d.in/gt2-6mm-belt/
+Motion System,8,GT2 Idler Pulleys,6mm,4,https://novo3d.in/idler-pulley-6mm/?attribute_belt-width=6mm+with+teeth
+Motion System,4,NEMA 17 Stepper Motors,-,-,Already owned
+Z-Axis & Bed,2,Lead Screw Rods,400mm,6,https://novo3d.in/8mm-lead-screw/?attribute_size=40cm&attribute_nut-type=Circle+4+start+brass+nut
+Z-Axis & Bed,2,Lead Screw Mounts,Fixed,3,https://novo3d.in/lead-screw-fixing-block/
+Z-Axis & Bed,2,Lead Screw Mounts,Bed,2,https://novo3d.in/lead-screw-nut-housing/
+Z-Axis & Bed,4,Rod Mounts,8mm,6,https://novo3d.in/sk8-8mm-linear-bearing-rail/
+Z-Axis & Bed,2,LM8UU Bearings,8mm,2,https://novo3d.in/linear-bearing-lmk8luu/
+Z-Axis & Bed,1,Bed Plate,310x310mm,6,https://novo3d.in/heatbed/
+Z-Axis & Bed,4,Silicone Spacers,-,2,https://novo3d.in/silicone-solid-spacer/?attribute_size=Height%3A+18mm%2C+Hole%3A+4mm&attribute_color=Black
+Z-Axis & Bed,1,Heated Bed,310x310mm,16,https://novo3d.in/heat-bed-310mm/?attribute_voltage=12v&attribute_type=Heat+bed+with+100cm+cable
+Z-Axis & Bed,8,Clips,-,1,
+Extruder & Print Head,1,Extruder Kit,-,12,https://novo3d.in/3d-printer-extruder/
+Extruder & Print Head,1,V6 Hotend,-,-,Already owned
+Psu,1,12v 30A PSU,-,-,Already owned
+Main Board,1,Octopus V1.1,-,24,https://novo3d.in/bigtreetech-octopus/
+Main Board,5,TMC2209,-,28,https://novo3d.in/mks-tmc2209/
+Main Board,1,Rpi 3 1gb,-,38,https://hubtronics.in/RPI-3-MOD-BP?srsltid=AfmBOopupmtiQHvmT1brDTpnBNzDuGEFCc6sj1CpAll9u2q7T3JlLATqg0E
+Main Board,1,TFT tochscreen for rpi,-,9,https://makerbazar.in/products/touch-screen-3-5-inch-tft-lcd-display-for-raspberry-pi?variant=42959460172016&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1&gad_campaignid=17426677322&gbraid=0AAAAACLxaAYYNQg5DkUnpWMTQny_U-rEj&gclid=CjwKCAjwp_LDBhBCEiwAK7FnknqULLMUNNS0jIAZCgdJ0o7W9H0fEuq5CnQcOdlDdDgAGkyGIRxmWRoC9bEQAvD_BwE
+Total,,,,348.92,
