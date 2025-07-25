@@ -23,6 +23,11 @@ Visit this web to view it in 3d :
   <img src="Images/Top Gantry.jpeg" width="50%" />
   <img src="Images/Full Assembly.jpeg" width="35%" />
 </p>
+<p align="center">
+  <img src="Images/image(1).png" width="42%" />
+  <img src="Images/image(2).png" width="45%" />
+</p>
+
 
 **Wiring :**
 This is general wiring for all components .
@@ -43,7 +48,7 @@ This is general wiring for all components .
 | Fasteners & Screws    | —   | Various Screws & Washers      | ~$0.03–$0.05     | ~$1.9             |
 | Fasteners & Screws    | 8   | Nuts                          | ~$0.02           | $0.16             |
 | Motion System         | 3   | MGN12H Linear Rails 0.5 m     | $28.0            | $84.0             |
-| Motion System         | 4   | NEMA 17 Stepper Motors        | $8.2             | $32.8             |
+| Motion System         | 4   | NEMA 17 Stepper Motors        | $8.2             | Already owned             |
 | Motion System         | 8   | GT2 Idler Pulleys             | $0.38            | $3.0              |
 | Motion System         | 1   | GT2 Timing Belt               | $0.38            | $0.4              |
 | Z‑Axis & Bed          | 2   | Lead Screw Rods               | ~$3              | $6.0              |
@@ -51,8 +56,8 @@ This is general wiring for all components .
 | Z‑Axis & Bed          | 4   | Bed Plate                     | ~$10             | $40.0             |
 | Z‑Axis & Bed          | 1   | Heated Bed                    | ~$25             | $25.0             |
 | Extruder & Print Head | 1   | Extruder Kit + V6 Hotend      | ~$15 + $10       | $25.0             |
-| PSU                   | 1   | 12 V 30 A PSU                 | ~$20             | $20.0             |
+| PSU                   | 1   | 12 V 30 A PSU                 | ~$20             | Already owned      |
 | Main Board            | 1   | Octopus V1.1                  | $50.0            | $50.0             |
 | Main Board            | 5   | TMC2209 Drivers               | $7.0             | $35.0             |
 | Main Board            | 1   | RPi 3 (1 GB) + TFT Display    | $35 + $9         | $44.0             |
-| **Totals**            | —   | —                             | —                | **≈ $400**         |
+| **Totals**            | —   | —                             | —                | **≈ $350**         |
