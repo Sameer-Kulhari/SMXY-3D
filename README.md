@@ -56,9 +56,9 @@ This is general wiring for all components.(referenced from web)
 | Z‑Axis & Bed          | 8   | Rod Mounts, Nuts, Bearings... | ~$0.5–$1 each    | ~$12.0            |
 | Z‑Axis & Bed          | 4   | Bed Plate                     | ~$10             | $40.0             |
 | Z‑Axis & Bed          | 1   | Heated Bed                    | ~$25             | $25.0             |
-| Extruder & Print Head | 1   | Extruder Kit + V6 Hotend      | ~$15 + $10       | $25.0             |
+| Extruder & Print Head | 1   | Extruder Kit + V6 Hotend      | ~$15 + $10       | Already owned             |
 | PSU                   | 1   | 12 V 30 A PSU                 | ~$20             | Already owned      |
 | Main Board            | 1   | Octopus V1.1                  | $50.0            | $50.0             |
 | Main Board            | 5   | TMC2209 Drivers               | $7.0             | $35.0             |
 | Main Board            | 1   | RPi 3 (1 GB) + TFT Display    | $35 + $9         | $44.0             |
-| **Totals**            | —   | —                             | —                | **≈ $350**         |
+| **Totals**            | —   | —                             | —                | **≈ $330**         |
